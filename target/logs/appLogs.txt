@@ -1,0 +1,311 @@
+2015-12-27 01:31:49 INFO  Steps:28 - Initialized browser
+2015-12-27 01:32:17 INFO  Steps:34 - Stopped browser
+2015-12-27 01:32:28 INFO  Steps:28 - Initialized browser
+2015-12-27 01:32:57 INFO  Steps:34 - Stopped browser
+2015-12-27 01:33:12 INFO  Steps:28 - Initialized browser
+2015-12-27 01:33:39 INFO  Steps:34 - Stopped browser
+2015-12-27 01:34:55 INFO  Steps:28 - Initialized browser
+2015-12-27 01:35:22 INFO  Steps:34 - Stopped browser
+2015-12-27 01:35:35 INFO  Steps:28 - Initialized browser
+2015-12-27 01:36:02 INFO  Steps:34 - Stopped browser
+2015-12-27 01:36:15 INFO  Steps:28 - Initialized browser
+2015-12-27 01:36:42 INFO  Steps:34 - Stopped browser
+2015-12-27 01:41:15 INFO  Steps:28 - Initialized browser
+2015-12-27 01:41:43 INFO  Steps:34 - Stopped browser
+2015-12-27 01:41:55 INFO  Steps:28 - Initialized browser
+2015-12-27 01:42:19 INFO  LoginPage:36 - Opened login page
+2015-12-27 01:42:48 INFO  Steps:34 - Stopped browser
+2015-12-27 01:42:59 INFO  Steps:28 - Initialized browser
+2015-12-27 01:43:28 INFO  Steps:34 - Stopped browser
+2015-12-27 01:46:30 INFO  Steps:28 - Initialized browser
+2015-12-27 01:46:59 INFO  LoginPage:36 - Opened login page
+2015-12-27 01:47:48 INFO  Steps:34 - Stopped browser
+2015-12-27 01:48:01 INFO  Steps:28 - Initialized browser
+2015-12-27 01:48:44 INFO  LoginPage:36 - Opened login page
+2015-12-27 01:49:32 INFO  Steps:34 - Stopped browser
+2015-12-27 01:49:45 INFO  Steps:28 - Initialized browser
+2015-12-27 01:50:32 INFO  Steps:34 - Stopped browser
+2015-12-27 02:13:48 INFO  Steps:29 - Initialized browser
+2015-12-27 02:13:50 INFO  GoogleTest:36 - Opened login page
+2015-12-27 02:14:39 INFO  Steps:35 - Stopped browser
+2015-12-27 02:17:12 INFO  Steps:29 - Initialized browser
+2015-12-27 02:17:14 INFO  GoogleTest:36 - Opened login page
+2015-12-27 02:17:16 INFO  GoogleTest:44 - Logged in
+2015-12-27 02:17:16 INFO  Steps:46 - getthatautomated
+2015-12-27 02:17:18 INFO  Steps:35 - Stopped browser
+2015-12-27 13:04:07 INFO  Steps:23 - Initialized browser
+2015-12-27 13:04:28 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 13:04:36 INFO  OkLoginPage:44 - Logged in
+2015-12-27 13:04:36 INFO  Steps:40 - getthatautomated
+2015-12-27 13:04:39 INFO  Steps:29 - Stopped browser
+2015-12-27 13:16:32 INFO  Steps:24 - Initialized browser
+2015-12-27 13:16:55 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 13:17:03 INFO  OkLoginPage:44 - Logged in
+2015-12-27 13:17:11 INFO  DashboardPage:39 - Opened dashboard page
+2015-12-27 13:17:14 INFO  Steps:30 - Stopped browser
+2015-12-27 13:19:16 INFO  Steps:24 - Initialized browser
+2015-12-27 13:19:27 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 13:19:36 INFO  OkLoginPage:44 - Logged in
+2015-12-27 13:19:37 INFO  DashboardPage:39 - Opened dashboard page
+2015-12-27 13:19:49 INFO  Steps:30 - Stopped browser
+2015-12-27 14:07:39 INFO  Steps:24 - Initialized browser
+2015-12-27 14:08:02 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:08:11 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:08:11 INFO  DashboardPage:39 - Opened dashboard page
+2015-12-27 14:08:20 INFO  Steps:30 - Stopped browser
+2015-12-27 14:08:34 INFO  Steps:24 - Initialized browser
+2015-12-27 14:08:45 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:08:53 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:09:00 INFO  DashboardPage:39 - Opened dashboard page
+2015-12-27 14:09:50 INFO  Steps:30 - Stopped browser
+2015-12-27 14:12:40 INFO  Steps:24 - Initialized browser
+2015-12-27 14:12:50 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:12:59 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:13:07 INFO  DashboardPage:39 - Opened dashboard page
+2015-12-27 14:13:10 INFO  Steps:30 - Stopped browser
+2015-12-27 14:13:25 INFO  Steps:24 - Initialized browser
+2015-12-27 14:13:37 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:13:47 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:13:47 INFO  DashboardPage:39 - Opened dashboard page
+2015-12-27 14:14:43 INFO  Steps:30 - Stopped browser
+2015-12-27 14:17:38 INFO  Steps:24 - Initialized browser
+2015-12-27 14:17:51 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:18:02 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:18:07 INFO  DashboardPage:39 - Opened dashboard page
+2015-12-27 14:18:11 INFO  Steps:30 - Stopped browser
+2015-12-27 14:18:27 INFO  Steps:24 - Initialized browser
+2015-12-27 14:18:40 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:18:50 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:18:56 INFO  DashboardPage:39 - Opened dashboard page
+2015-12-27 14:18:59 INFO  DashboardPage:52 - Posted Message
+2015-12-27 14:19:01 INFO  Steps:30 - Stopped browser
+2015-12-27 14:41:31 INFO  Steps:26 - Initialized browser
+2015-12-27 14:42:20 INFO  Steps:32 - Stopped browser
+2015-12-27 14:42:32 INFO  Steps:26 - Initialized browser
+2015-12-27 14:42:56 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:43:04 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:43:10 INFO  DashboardPage:42 - Opened dashboard page
+2015-12-27 14:43:13 INFO  DashboardPage:55 - Posted Message
+2015-12-27 14:43:15 INFO  Steps:32 - Stopped browser
+2015-12-27 14:44:44 INFO  Steps:26 - Initialized browser
+2015-12-27 14:45:32 INFO  Steps:32 - Stopped browser
+2015-12-27 14:46:11 INFO  Steps:26 - Initialized browser
+2015-12-27 14:46:24 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:46:34 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:46:40 INFO  DashboardPage:42 - Opened dashboard page
+2015-12-27 14:46:42 INFO  DashboardPage:55 - Posted Message
+2015-12-27 14:46:47 INFO  Steps:60 - Opened new tab
+2015-12-27 14:46:55 INFO  DashboardPage:42 - Opened dashboard page
+2015-12-27 14:46:58 INFO  Steps:32 - Stopped browser
+2015-12-27 14:49:31 INFO  Steps:26 - Initialized browser
+2015-12-27 14:49:55 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:50:03 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:50:03 INFO  DashboardPage:42 - Opened dashboard page
+2015-12-27 14:50:12 INFO  DashboardPage:55 - Posted Message
+2015-12-27 14:50:15 INFO  Steps:60 - Opened new tab
+2015-12-27 14:50:22 INFO  DashboardPage:42 - Opened dashboard page
+2015-12-27 14:50:25 INFO  Steps:32 - Stopped browser
+2015-12-27 14:53:27 INFO  Steps:26 - Initialized browser
+2015-12-27 14:53:48 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 14:53:57 INFO  OkLoginPage:44 - Logged in
+2015-12-27 14:54:03 INFO  DashboardPage:42 - Opened dashboard page
+2015-12-27 14:54:05 INFO  DashboardPage:55 - Posted Message
+2015-12-27 14:54:07 INFO  Steps:60 - Opened new tab
+2015-12-27 14:54:08 INFO  DashboardPage:42 - Opened dashboard page
+2015-12-27 14:54:18 INFO  Steps:32 - Stopped browser
+2015-12-27 15:15:03 INFO  Steps:26 - Initialized browser
+2015-12-27 15:15:19 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 15:15:27 INFO  OkLoginPage:44 - Logged in
+2015-12-27 15:15:35 INFO  DashboardPage:51 - Opened dashboard page
+2015-12-27 15:16:25 INFO  Steps:32 - Stopped browser
+2015-12-27 15:23:09 INFO  Steps:26 - Initialized browser
+2015-12-27 15:23:29 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 15:23:39 INFO  OkLoginPage:44 - Logged in
+2015-12-27 15:23:49 INFO  DashboardPage:51 - Opened dashboard page
+2015-12-27 15:24:40 INFO  Steps:32 - Stopped browser
+2015-12-27 15:25:26 INFO  Steps:26 - Initialized browser
+2015-12-27 15:25:39 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 15:25:47 INFO  OkLoginPage:44 - Logged in
+2015-12-27 15:25:55 INFO  DashboardPage:51 - Opened dashboard page
+2015-12-27 15:26:45 INFO  Steps:32 - Stopped browser
+2015-12-27 15:28:48 INFO  Steps:26 - Initialized browser
+2015-12-27 15:28:59 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 15:29:06 INFO  OkLoginPage:44 - Logged in
+2015-12-27 15:29:15 INFO  DashboardPage:51 - Opened dashboard page
+2015-12-27 15:29:20 INFO  DashboardPage:71 - Finded performer
+2015-12-27 15:29:23 INFO  Steps:32 - Stopped browser
+2015-12-27 15:40:31 INFO  Steps:26 - Initialized browser
+2015-12-27 15:40:42 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 15:40:54 INFO  OkLoginPage:44 - Logged in
+2015-12-27 15:40:55 INFO  DashboardPage:54 - Opened dashboard page
+2015-12-27 15:41:07 INFO  DashboardPage:74 - Finded performer
+2015-12-27 15:41:56 INFO  Steps:32 - Stopped browser
+2015-12-27 15:43:57 INFO  Steps:26 - Initialized browser
+2015-12-27 15:44:10 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 15:44:20 INFO  OkLoginPage:44 - Logged in
+2015-12-27 15:44:26 INFO  DashboardPage:54 - Opened dashboard page
+2015-12-27 15:44:32 INFO  DashboardPage:74 - Finded performer
+2015-12-27 15:59:11 INFO  Steps:26 - Initialized browser
+2015-12-27 15:59:23 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 15:59:31 INFO  OkLoginPage:44 - Logged in
+2015-12-27 15:59:31 INFO  DashboardPage:57 - Opened dashboard page
+2015-12-27 15:59:43 INFO  Steps:32 - Stopped browser
+2015-12-27 16:00:56 INFO  Steps:26 - Initialized browser
+2015-12-27 16:01:07 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 16:01:17 INFO  OkLoginPage:44 - Logged in
+2015-12-27 16:01:17 INFO  DashboardPage:57 - Opened dashboard page
+2015-12-27 16:06:33 INFO  Steps:26 - Initialized browser
+2015-12-27 16:06:56 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 16:07:04 INFO  OkLoginPage:44 - Logged in
+2015-12-27 16:07:12 INFO  DashboardPage:63 - Opened dashboard page
+2015-12-27 16:08:07 INFO  Steps:32 - Stopped browser
+2015-12-27 16:09:49 INFO  Steps:26 - Initialized browser
+2015-12-27 16:10:12 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 16:10:20 INFO  OkLoginPage:44 - Logged in
+2015-12-27 16:10:28 INFO  DashboardPage:63 - Opened dashboard page
+2015-12-27 16:10:34 INFO  DashboardPage:92 - Sended message to Kochneva
+2015-12-27 16:10:37 INFO  Steps:32 - Stopped browser
+2015-12-27 16:13:03 INFO  Steps:26 - Initialized browser
+2015-12-27 16:13:14 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 16:13:24 INFO  OkLoginPage:44 - Logged in
+2015-12-27 16:13:25 INFO  DashboardPage:63 - Opened dashboard page
+2015-12-27 16:13:33 INFO  Steps:60 - Opened new tab
+2015-12-27 16:13:37 INFO  DashboardPage:92 - Sended message to Kochneva
+2015-12-27 16:13:40 INFO  Steps:32 - Stopped browser
+2015-12-27 16:14:23 INFO  Steps:26 - Initialized browser
+2015-12-27 16:14:35 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 16:14:45 INFO  OkLoginPage:44 - Logged in
+2015-12-27 16:14:46 INFO  Steps:60 - Opened new tab
+2015-12-27 16:14:54 INFO  DashboardPage:63 - Opened dashboard page
+2015-12-27 16:14:59 INFO  DashboardPage:92 - Sended message to Kochneva
+2015-12-27 16:15:02 INFO  Steps:32 - Stopped browser
+2015-12-27 16:26:40 INFO  Steps:26 - Initialized browser
+2015-12-27 16:26:52 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 16:27:00 INFO  OkLoginPage:44 - Logged in
+2015-12-27 16:27:07 INFO  DashboardPage:67 - Opened dashboard page
+2015-12-27 16:27:14 INFO  DashboardPage:99 - Sended message to Kochneva
+2015-12-27 16:27:17 INFO  Steps:32 - Stopped browser
+2015-12-27 16:28:29 INFO  Steps:26 - Initialized browser
+2015-12-27 16:28:39 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 16:28:49 INFO  OkLoginPage:44 - Logged in
+2015-12-27 16:28:49 INFO  DashboardPage:67 - Opened dashboard page
+2015-12-27 16:29:03 INFO  DashboardPage:99 - Sended message to Kochneva
+2015-12-27 16:29:06 INFO  Steps:32 - Stopped browser
+2015-12-27 16:52:47 INFO  Steps:26 - Initialized browser
+2015-12-27 16:53:10 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 16:53:24 INFO  OkLoginPage:44 - Logged in
+2015-12-27 16:53:31 INFO  DashboardPage:67 - Opened dashboard page
+2015-12-27 16:53:35 INFO  Steps:32 - Stopped browser
+2015-12-27 17:00:46 INFO  Steps:26 - Initialized browser
+2015-12-27 17:00:58 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:01:06 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:01:16 INFO  DashboardPage:73 - Opened dashboard page
+2015-12-27 17:01:20 INFO  DashboardPage:110 - Left comment for status
+2015-12-27 17:01:23 INFO  Steps:32 - Stopped browser
+2015-12-27 17:02:13 INFO  Steps:26 - Initialized browser
+2015-12-27 17:02:33 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:02:39 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:02:47 INFO  DashboardPage:73 - Opened dashboard page
+2015-12-27 17:02:53 INFO  DashboardPage:110 - Left comment for status
+2015-12-27 17:02:56 INFO  Steps:32 - Stopped browser
+2015-12-27 17:04:08 INFO  Steps:26 - Initialized browser
+2015-12-27 17:04:18 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:04:28 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:04:35 INFO  DashboardPage:73 - Opened dashboard page
+2015-12-27 17:04:41 INFO  DashboardPage:111 - Left comment for status
+2015-12-27 17:04:43 INFO  Steps:32 - Stopped browser
+2015-12-27 17:11:47 INFO  Steps:26 - Initialized browser
+2015-12-27 17:12:02 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:12:11 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:12:12 INFO  DashboardPage:75 - Opened dashboard page
+2015-12-27 17:12:24 INFO  DashboardPage:113 - Left comment for status
+2015-12-27 17:12:25 INFO  Steps:60 - Opened new tab
+2015-12-27 17:12:32 INFO  DashboardPage:75 - Opened dashboard page
+2015-12-27 17:13:23 INFO  Steps:32 - Stopped browser
+2015-12-27 17:22:59 INFO  Steps:26 - Initialized browser
+2015-12-27 17:23:09 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:23:17 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:23:24 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:23:30 INFO  DashboardPage:114 - Left comment for status
+2015-12-27 17:23:31 INFO  Steps:60 - Opened new tab
+2015-12-27 17:23:38 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:24:28 INFO  Steps:32 - Stopped browser
+2015-12-27 17:26:41 INFO  Steps:26 - Initialized browser
+2015-12-27 17:26:55 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:27:03 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:27:08 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:27:17 INFO  DashboardPage:114 - Left comment for status
+2015-12-27 17:28:04 INFO  Steps:26 - Initialized browser
+2015-12-27 17:28:15 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:28:24 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:28:24 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:28:39 INFO  DashboardPage:114 - Left comment for status
+2015-12-27 17:28:40 INFO  Steps:60 - Opened new tab
+2015-12-27 17:28:47 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:28:52 INFO  Steps:32 - Stopped browser
+2015-12-27 17:30:25 INFO  Steps:26 - Initialized browser
+2015-12-27 17:30:38 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:30:46 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:30:55 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:31:00 INFO  DashboardPage:114 - Left comment for status
+2015-12-27 17:31:01 INFO  Steps:60 - Opened new tab
+2015-12-27 17:31:02 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:31:13 INFO  Steps:32 - Stopped browser
+2015-12-27 17:31:25 INFO  Steps:26 - Initialized browser
+2015-12-27 17:31:47 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:31:55 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:32:01 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:32:04 INFO  Steps:32 - Stopped browser
+2015-12-27 17:32:17 INFO  Steps:26 - Initialized browser
+2015-12-27 17:32:27 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:32:35 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:32:44 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:32:47 INFO  DashboardPage:89 - Posted Message
+2015-12-27 17:32:50 INFO  Steps:60 - Opened new tab
+2015-12-27 17:32:50 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:33:00 INFO  Steps:32 - Stopped browser
+2015-12-27 17:33:13 INFO  Steps:26 - Initialized browser
+2015-12-27 17:33:25 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:33:36 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:33:37 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:33:51 INFO  DashboardPage:106 - Sended message to Kochneva
+2015-12-27 17:33:53 INFO  Steps:32 - Stopped browser
+2015-12-27 17:34:05 INFO  Steps:26 - Initialized browser
+2015-12-27 17:34:22 INFO  OkLoginPage:36 - Opened login page
+2015-12-27 17:34:33 INFO  OkLoginPage:44 - Logged in
+2015-12-27 17:34:33 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-27 17:34:46 INFO  DashboardPage:96 - Finded performer
+2015-12-27 17:34:48 INFO  Steps:32 - Stopped browser
+2015-12-28 18:02:25 INFO  Steps:26 - Initialized browser
+2015-12-28 18:02:31 INFO  OkLoginPage:36 - Opened login page
+2015-12-28 18:02:40 INFO  OkLoginPage:44 - Logged in
+2015-12-28 18:02:48 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-28 18:02:53 INFO  DashboardPage:114 - Left comment for status
+2015-12-28 18:02:54 INFO  Steps:83 - Opened new tab
+2015-12-28 18:02:54 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-28 18:03:07 INFO  Steps:32 - Stopped browser
+2015-12-28 18:03:20 INFO  Steps:26 - Initialized browser
+2015-12-28 18:03:25 INFO  OkLoginPage:36 - Opened login page
+2015-12-28 18:03:33 INFO  OkLoginPage:44 - Logged in
+2015-12-28 18:03:42 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-28 18:03:45 INFO  Steps:32 - Stopped browser
+2015-12-28 18:03:57 INFO  Steps:26 - Initialized browser
+2015-12-28 18:03:57 INFO  OkLoginPage:36 - Opened login page
+2015-12-28 18:04:09 INFO  OkLoginPage:44 - Logged in
+2015-12-28 18:04:17 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-28 18:04:21 INFO  DashboardPage:89 - Posted Message
+2015-12-28 18:04:21 INFO  Steps:83 - Opened new tab
+2015-12-28 18:04:22 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-28 18:04:32 INFO  Steps:32 - Stopped browser
+2015-12-28 18:04:45 INFO  Steps:26 - Initialized browser
+2015-12-28 18:04:49 INFO  OkLoginPage:36 - Opened login page
+2015-12-28 18:04:57 INFO  OkLoginPage:44 - Logged in
+2015-12-28 18:05:05 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-28 18:05:12 INFO  DashboardPage:106 - Sended message to Kochneva
+2015-12-28 18:05:15 INFO  Steps:32 - Stopped browser
+2015-12-28 18:05:27 INFO  Steps:26 - Initialized browser
+2015-12-28 18:05:32 INFO  OkLoginPage:36 - Opened login page
+2015-12-28 18:05:41 INFO  OkLoginPage:44 - Logged in
+2015-12-28 18:05:49 INFO  DashboardPage:76 - Opened dashboard page
+2015-12-28 18:06:42 INFO  DashboardPage:96 - Finded performer
+2015-12-28 18:06:44 INFO  Steps:32 - Stopped browser
