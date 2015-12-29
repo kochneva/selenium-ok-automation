@@ -35,11 +35,13 @@ public class OdnoklassnikiAutomationTest {
     public void oneCanTurnOnPlayer() {
         steps.loginOk(PHONE, PASSWORD);
         steps.playerTurnOn(PERFORMER);
+        //Assert.assertTrue(steps.playerTurnOn(PERFORMER));
     }
     @Test (description = "Send message")
     public void oneCanSendMessage() {
         steps.loginOk(PHONE, PASSWORD);
         steps.sendMessage(MESSAGE);
+        Assert.assertTrue(steps.getMessage(MESSAGE));
     }
     @Test (description = "Leave comment for status")
     public void oneCanLeaveComments() {

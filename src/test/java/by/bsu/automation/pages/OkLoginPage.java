@@ -20,9 +20,6 @@ public class OkLoginPage extends AbstractPage
     @FindBy(xpath = "//input[@class='button-pro __orange inlineBlock']")
     private WebElement submitButton;
 
-    /*@FindBy(xpath = "//span[@class='blog-list-item-info-name']")
-    private WebElement username;*/
-
     public OkLoginPage(WebDriver driver)
     {
         super(driver);

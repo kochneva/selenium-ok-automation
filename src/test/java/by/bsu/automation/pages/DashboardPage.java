@@ -42,6 +42,9 @@ public class DashboardPage extends AbstractPage
     @FindBy(id = "p0m_sec_search_result74334128600135")
     private WebElement playerPlayButton;
 
+    @FindBy(xpath = "//span[@class='mus_h2_tx ellip']")
+    private WebElement performer;
+
     @FindBy(id = "hook_ToolbarIconMessages_ToolbarMessages")
     private WebElement messages;
 
@@ -50,6 +53,9 @@ public class DashboardPage extends AbstractPage
 
     @FindBy(xpath = "//div[@uid='uidTrigerSendMsg']")
     private WebElement messageSendButton;
+
+    @FindBy(xpath = "//div[@class='d_comment_text textWrap']")
+    private WebElement lastMessage;
 
     @FindBy(xpath = "//div[@class='rev_cnt']")
     private WebElement status;
@@ -94,8 +100,12 @@ public class DashboardPage extends AbstractPage
         playerSearchaArea.sendKeys(performer);
         playerSearchSubmit.click();
         logger.info("Finded performer");
-        //playerPlayButton.click();
+    }
+    public String getPerformer(){
+        WebDriverWait wait = new WebDriverWait(driver, 5);
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//span[@class='mus_h2_tx ellip']")));
 
+        return performer.getText();
     }
     public void sendMessage(String message)
     {
@@ -105,6 +115,12 @@ public class DashboardPage extends AbstractPage
         messageSendButton.click();
         logger.info("Sended message to Kochneva");
     }
+    public String getkSendedMessage()
+    {
+        messages.click();
+        return lastMessage.getText();
+    }
+
     public void leaveComment(String comment){
         status.click();
         statusCommentTextArea.click();
